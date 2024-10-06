@@ -1,16 +1,21 @@
 Gym Management
-Description
+
+**Description** : 
+
 Welcome to the Gym Management project! This application is designed with clean architecture principles to ensure efficiency, maintainability, and reusability.
 Our goal is to provide a scalable, maintainable, extensible, reusable, and readable codebase for managing gym operations.
 
-Features
-Scalability: Easily handle growing amounts of work.
-Maintainability: Simplify updates and maintenance.
-Extensibility: Add new features with minimal effort.
-Reusability: Reuse components across different parts of the application.
-Readability: Clear and understandable code.
 
-Functionality :
+
+**Features** :
+
+ - Scalability: Easily handle growing amounts of work.
+ - Maintainability: Simplify updates and maintenance.
+ - Extensibility: Add new features with minimal effort.
+ - Reusability: Reuse components across different parts of the application.
+ - Readability: Clear and understandable code.
+
+**Functionality** :
 
 Gym Management: Create and manage gyms, rooms, and sessions.
 Subscription Plans: Offer three types of subscriptions:
@@ -18,7 +23,7 @@ Free
 Starter
 Pro
 
-Patterns and Technologies Used :
+**Patterns and Technologies Used** : 
 
  - Result Pattern: Handle operation results effectively.
 
