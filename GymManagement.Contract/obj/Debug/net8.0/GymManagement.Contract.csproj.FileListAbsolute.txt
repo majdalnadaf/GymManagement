@@ -1,0 +1,11 @@
+C:\Users\new laptop\source\repos\GymManagement\GymManagement.Contract\bin\Debug\net8.0\GymManagement.Contract.deps.json
+C:\Users\new laptop\source\repos\GymManagement\GymManagement.Contract\bin\Debug\net8.0\GymManagement.Contract.dll
+C:\Users\new laptop\source\repos\GymManagement\GymManagement.Contract\bin\Debug\net8.0\GymManagement.Contract.pdb
+C:\Users\new laptop\source\repos\GymManagement\GymManagement.Contract\obj\Debug\net8.0\GymManagement.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\new laptop\source\repos\GymManagement\GymManagement.Contract\obj\Debug\net8.0\GymManagement.Contract.AssemblyInfoInputs.cache
+C:\Users\new laptop\source\repos\GymManagement\GymManagement.Contract\obj\Debug\net8.0\GymManagement.Contract.AssemblyInfo.cs
+C:\Users\new laptop\source\repos\GymManagement\GymManagement.Contract\obj\Debug\net8.0\GymManagement.Contract.csproj.CoreCompileInputs.cache
+C:\Users\new laptop\source\repos\GymManagement\GymManagement.Contract\obj\Debug\net8.0\GymManagement.Contract.dll
+C:\Users\new laptop\source\repos\GymManagement\GymManagement.Contract\obj\Debug\net8.0\refint\GymManagement.Contract.dll
+C:\Users\new laptop\source\repos\GymManagement\GymManagement.Contract\obj\Debug\net8.0\GymManagement.Contract.pdb
+C:\Users\new laptop\source\repos\GymManagement\GymManagement.Contract\obj\Debug\net8.0\ref\GymManagement.Contract.dll

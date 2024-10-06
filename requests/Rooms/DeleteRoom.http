@@ -1,0 +1,12 @@
+@host = http://localhost:5000
+
+
+@subscriptionId =
+
+@gymId =
+
+@roomId =
+
+DELETE {{host}}/gyms/{{gymId}}/subscriptions/{{subscriptionId}}/rooms/{{roomId}}
+
+

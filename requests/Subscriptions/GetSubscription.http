@@ -1,0 +1,7 @@
+@host = http://localhost:5000
+
+
+@subscriptionId = 
+
+GET {{host}}/subscriptions/{{subscriptionId}}
+

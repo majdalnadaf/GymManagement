@@ -1,0 +1,19 @@
+
+
+@host = http://localhost:5000
+
+
+@subscriptionId =
+
+@gymId =
+
+
+POST {{host}}/gyms/{{gymId}}/subscriptions/{{subscriptionId}}/rooms
+
+Content-Type: application/json
+
+{
+    "name":"JoggingRoom"
+}
+
+

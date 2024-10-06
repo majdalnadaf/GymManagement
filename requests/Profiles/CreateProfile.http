@@ -1,0 +1,16 @@
+
+
+@host = http://localhost:5000
+
+
+@userId =
+
+@token=
+
+
+### admin
+POST {{host}}/users/{{userId}}/profiles/admin
+
+Authorization: Bearer {{token}}
+
+

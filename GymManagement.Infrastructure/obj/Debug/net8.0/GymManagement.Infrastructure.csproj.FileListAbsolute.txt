@@ -1,0 +1,17 @@
+C:\Users\new laptop\source\repos\GymManagement\GymManagement.Infrastructure\bin\Debug\net8.0\GymManagement.Infrastructure.deps.json
+C:\Users\new laptop\source\repos\GymManagement\GymManagement.Infrastructure\bin\Debug\net8.0\GymManagement.Infrastructure.dll
+C:\Users\new laptop\source\repos\GymManagement\GymManagement.Infrastructure\bin\Debug\net8.0\GymManagement.Infrastructure.pdb
+C:\Users\new laptop\source\repos\GymManagement\GymManagement.Infrastructure\bin\Debug\net8.0\GymManagement.Application.dll
+C:\Users\new laptop\source\repos\GymManagement\GymManagement.Infrastructure\bin\Debug\net8.0\GymManagement.Domains.dll
+C:\Users\new laptop\source\repos\GymManagement\GymManagement.Infrastructure\bin\Debug\net8.0\GymManagement.Application.pdb
+C:\Users\new laptop\source\repos\GymManagement\GymManagement.Infrastructure\bin\Debug\net8.0\GymManagement.Domains.pdb
+C:\Users\new laptop\source\repos\GymManagement\GymManagement.Infrastructure\obj\Debug\net8.0\GymManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\new laptop\source\repos\GymManagement\GymManagement.Infrastructure\obj\Debug\net8.0\GymManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\new laptop\source\repos\GymManagement\GymManagement.Infrastructure\obj\Debug\net8.0\GymManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\new laptop\source\repos\GymManagement\GymManagement.Infrastructure\obj\Debug\net8.0\GymManag.01D5B840.Up2Date
+C:\Users\new laptop\source\repos\GymManagement\GymManagement.Infrastructure\obj\Debug\net8.0\GymManagement.Infrastructure.dll
+C:\Users\new laptop\source\repos\GymManagement\GymManagement.Infrastructure\obj\Debug\net8.0\refint\GymManagement.Infrastructure.dll
+C:\Users\new laptop\source\repos\GymManagement\GymManagement.Infrastructure\obj\Debug\net8.0\GymManagement.Infrastructure.pdb
+C:\Users\new laptop\source\repos\GymManagement\GymManagement.Infrastructure\obj\Debug\net8.0\ref\GymManagement.Infrastructure.dll
+C:\Users\new laptop\source\repos\GymManagement\GymManagement.Infrastructure\bin\Debug\net8.0\GymManagement.Infrastructure.runtimeconfig.json
+C:\Users\new laptop\source\repos\GymManagement\GymManagement.Infrastructure\obj\Debug\net8.0\GymManagement.Infrastructure.genruntimeconfig.cache

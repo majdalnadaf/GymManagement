@@ -1,0 +1,11 @@
+
+
+
+@host = http://localhost:5000
+
+
+@subscriptionId = 
+
+DELETE {{host}}/subscriptions/{{subscriptionId}}
+
+

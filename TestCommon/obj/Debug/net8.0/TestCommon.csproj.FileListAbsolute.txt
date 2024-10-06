@@ -1,0 +1,15 @@
+C:\Users\new laptop\source\repos\GymManagement\TestCommon\bin\Debug\net8.0\TestCommon.deps.json
+C:\Users\new laptop\source\repos\GymManagement\TestCommon\bin\Debug\net8.0\TestCommon.dll
+C:\Users\new laptop\source\repos\GymManagement\TestCommon\bin\Debug\net8.0\TestCommon.pdb
+C:\Users\new laptop\source\repos\GymManagement\TestCommon\bin\Debug\net8.0\GymManagement.Application.dll
+C:\Users\new laptop\source\repos\GymManagement\TestCommon\bin\Debug\net8.0\GymManagement.Domains.dll
+C:\Users\new laptop\source\repos\GymManagement\TestCommon\bin\Debug\net8.0\GymManagement.Application.pdb
+C:\Users\new laptop\source\repos\GymManagement\TestCommon\bin\Debug\net8.0\GymManagement.Domains.pdb
+C:\Users\new laptop\source\repos\GymManagement\TestCommon\obj\Debug\net8.0\TestCommon.csproj.AssemblyReference.cache
+C:\Users\new laptop\source\repos\GymManagement\TestCommon\obj\Debug\net8.0\TestCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\new laptop\source\repos\GymManagement\TestCommon\obj\Debug\net8.0\TestCommon.csproj.CoreCompileInputs.cache
+C:\Users\new laptop\source\repos\GymManagement\TestCommon\obj\Debug\net8.0\TestCommon.csproj.Up2Date
+C:\Users\new laptop\source\repos\GymManagement\TestCommon\obj\Debug\net8.0\TestCommon.dll
+C:\Users\new laptop\source\repos\GymManagement\TestCommon\obj\Debug\net8.0\refint\TestCommon.dll
+C:\Users\new laptop\source\repos\GymManagement\TestCommon\obj\Debug\net8.0\TestCommon.pdb
+C:\Users\new laptop\source\repos\GymManagement\TestCommon\obj\Debug\net8.0\ref\TestCommon.dll
