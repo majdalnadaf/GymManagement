@@ -9,13 +9,17 @@ Maintainability: Simplify updates and maintenance.
 Extensibility: Add new features with minimal effort.
 Reusability: Reuse components across different parts of the application.
 Readability: Clear and understandable code.
-Functionality
+
+Functionality :
+
 Gym Management: Create and manage gyms, rooms, and sessions.
 Subscription Plans: Offer three types of subscriptions:
 Free
 Starter
 Pro
-Patterns and Technologies Used
+
+Patterns and Technologies Used :
+
 Result Pattern: Handle operation results effectively.
 Repository Pattern: Abstract data access logic.
 Rich Domain Pattern: Encapsulate business logic within domain models.
