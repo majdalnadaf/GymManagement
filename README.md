@@ -20,18 +20,29 @@ Pro
 
 Patterns and Technologies Used :
 
-Result Pattern: Handle operation results effectively.
-Repository Pattern: Abstract data access logic.
-Rich Domain Pattern: Encapsulate business logic within domain models.
-Always Valid Pattern: Ensure domain models are always in a valid state.
-Mediator Pattern: Decouple request handling from business logic.
-Security with JWT: Secure API endpoints with JSON Web Tokens.
-Feature-based Splitting: Organize code by features for better modularity.
-SQLite Database: Lightweight and efficient database solution.
-Eventual Consistency: Ensure data consistency across distributed systems.
-Custom Middleware: Implement custom logic in the request pipeline.
-Validation with MediatR and FluentValidation: Validate requests using a pipeline behavior.
-Testing with xUnit: Ensure code quality with unit tests.
+ - Result Pattern: Handle operation results effectively.
+
+ - Repository Pattern: Abstract data access logic.
+
+ - Rich Domain Pattern: Encapsulate business logic within domain models.
+
+ - Always Valid Pattern: Ensure domain models are always in a valid state.
+
+ - Mediator Pattern: Decouple request handling from business logic.
+
+ - Security with JWT: Secure API endpoints with JSON Web Tokens.
+
+ - Feature-based Splitting: Organize code by features for better modularity.
+
+ - SQLite Database: Lightweight and efficient database solution.
+
+ - Eventual Consistency: Ensure data consistency across distributed systems.
+
+ - Custom Middleware: Implement custom logic in the request pipeline.
+
+ - Validation with MediatR and FluentValidation: Validate requests using a pipeline behavior.
+
+ - Testing with xUnit: Ensure code quality with unit tests.
 
 
 Contact Information
